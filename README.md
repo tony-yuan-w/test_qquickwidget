@@ -1,1 +1,1 @@
-# test_qquickwidget
+# simple project for testing memory leak when destory qquickwidget
